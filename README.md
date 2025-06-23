@@ -1,2 +1,2 @@
 # GitHub-Example
-This is all about git and github 
+This is a Git and Github repo for programmatic example
